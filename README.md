@@ -8,3 +8,9 @@
         - Simple Array Sum
         - Compare the Triplets
         - A Very Big Sum
+- Python
+    1. Introduction
+        - Say Hello, World! With Python
+        - Python If-Else
+        - Arithmetic Operators
+        - Python Division
