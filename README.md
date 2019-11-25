@@ -8,6 +8,8 @@
         - Simple Array Sum
         - Compare the Triplets
         - A Very Big Sum
+        - Diagonal Difference
+        - Plus Minus
 - Python
     1. Introduction
         - Say Hello, World! With Python
