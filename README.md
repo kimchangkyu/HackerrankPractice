@@ -16,3 +16,4 @@
         - Python If-Else
         - Arithmetic Operators
         - Python Division
+        - Loops
