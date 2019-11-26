@@ -17,3 +17,5 @@
         - Arithmetic Operators
         - Python Division
         - Loops
+        - Write a Function
+        - Print Function
