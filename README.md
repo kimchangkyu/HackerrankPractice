@@ -19,3 +19,7 @@
         - Loops
         - Write a Function
         - Print Function
+    2. Basic Data Types
+        - List Comprehensions
+        - Find the Runner-Up Score
+        - Nested Lists
