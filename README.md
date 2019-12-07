@@ -26,3 +26,6 @@
         - Finding the percentage
         - Lists
         - Tuples
+    3. Strings
+        - sWAP cASE
+        - String Split and Join
