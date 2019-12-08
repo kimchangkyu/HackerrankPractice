@@ -10,6 +10,9 @@
         - A Very Big Sum
         - Diagonal Difference
         - Plus Minus
+        - Staircase
+        - Mini-Max Sum
+        - Birthday Cake Candles
 - Python
     1. Introduction
         - Say Hello, World! With Python
