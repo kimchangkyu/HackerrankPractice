@@ -13,6 +13,9 @@
         - Staircase
         - Mini-Max Sum
         - Birthday Cake Candles
+        - Time Conversion
+    2. Implementation
+        - Grading Students
 - Python
     1. Introduction
         - Say Hello, World! With Python
