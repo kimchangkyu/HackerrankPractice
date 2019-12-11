@@ -38,8 +38,8 @@
         - String Split and Join
         - What's Your Name
         - Mutations
-    4. Sets
-        - Introduction to Sets
         - Find a string
         - Text Wrap
         - Designer Door Mat
+    4. Sets
+        - Introduction to Sets
