@@ -41,6 +41,8 @@
         - Find a string
         - Text Wrap
         - Designer Door Mat
+        - Text Alignment
+        - String Validators
     4. Sets
         - Introduction to Sets
         - Set add()
