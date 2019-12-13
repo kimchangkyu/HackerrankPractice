@@ -43,6 +43,7 @@
         - Designer Door Mat
         - Text Alignment
         - String Validators
+        - Capitalize!
     4. Sets
         - Introduction to Sets
         - Set add()
