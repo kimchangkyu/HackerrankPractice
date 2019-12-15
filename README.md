@@ -50,3 +50,4 @@
         - Set discard() remove() pop()
         - Symmetric Difference
         - Set.union() Operation
+        - Set.intersection() Operation
