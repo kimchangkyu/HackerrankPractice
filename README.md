@@ -49,3 +49,4 @@
         - Set add()
         - Set discard() remove() pop()
         - Symmetric Difference
+        - Set.union() Operation
