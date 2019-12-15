@@ -47,3 +47,4 @@
     4. Sets
         - Introduction to Sets
         - Set add()
+        - Set discard() remove() pop()
