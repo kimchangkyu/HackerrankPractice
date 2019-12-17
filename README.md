@@ -54,3 +54,6 @@
         - Set.difference() Operation
         - Set.symmetric_difference() Operation
         - Set Mutations
+    5. Itertools
+        - itertools.product()
+        - itertools.permutations()
