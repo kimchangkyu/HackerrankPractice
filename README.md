@@ -54,6 +54,10 @@
         - Set.difference() Operation
         - Set.symmetric_difference() Operation
         - Set Mutations
+        - Check Subset
+        - Check Strict Superset
+        - The Captain's Room
+        - No Idea!
     5. Itertools
         - itertools.product()
         - itertools.permutations()
