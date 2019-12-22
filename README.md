@@ -71,3 +71,6 @@
         - Select All
         - Select By ID
         - Japanese Cities' Attributes
+        - Japanese Cities' Names
+        - Weather Observation Station 1
+        - Weather Observation Station 3
