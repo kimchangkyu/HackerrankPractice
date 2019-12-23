@@ -74,3 +74,6 @@
         - Japanese Cities' Names
         - Weather Observation Station 1
         - Weather Observation Station 3
+        - Weather Observation Station 4
+        - Weather Observation Station 5
+        - Weather Observation Station 6
