@@ -85,3 +85,5 @@
         - Weather Observation Station 11
         - Weather Observation Station 12
         - Higher Than 75 Marks
+    2. Advanced Select
+        - Type of Triangle
