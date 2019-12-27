@@ -65,6 +65,11 @@
         - itertools.combinations()
         - itertools.combinations_with_replacement()
         - Compress the String!
+    6. Collections
+        - collections.Counter()
+        - DefaultDict Tutorial
+        - Collections namedtuple()
+        - Collections OrderedDict()
 - SQL
     1. Basic Select
         - Revising the Select Query I
