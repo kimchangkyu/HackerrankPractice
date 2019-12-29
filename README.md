@@ -70,6 +70,7 @@
         - DefaultDict Tutorial
         - Collections namedtuple()
         - Collections OrderedDict()
+        - Collections.deque()
 - SQL
     1. Basic Select
         - Revising the Select Query I
