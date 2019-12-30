@@ -97,3 +97,8 @@
         - Employee Salaries
     2. Advanced Select
         - Type of Triangle
+- Tutorials
+    1. 30 Days of Code
+        - Day 0: Hello, World.
+        - Day 1: Data Types
+        - Day 2: Operators
