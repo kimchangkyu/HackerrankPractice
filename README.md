@@ -71,6 +71,8 @@
         - Collections namedtuple()
         - Collections OrderedDict()
         - Collections.deque()
+    7. Date and Time
+        - Calendar Module
 - SQL
     1. Basic Select
         - Revising the Select Query I
