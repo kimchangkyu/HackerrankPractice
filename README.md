@@ -97,6 +97,7 @@
         - Employee Salaries
     2. Advanced Select
         - Type of Triangle
+        - The PADS
 - Tutorials
     1. 30 Days of Code
         - Day 0: Hello, World.
