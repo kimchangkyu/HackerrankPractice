@@ -102,6 +102,10 @@
         - Revising Aggregations - The Count Function
         - Revising Aggregations - The Sum Function
         - Revising Aggregations - Averages
+        - Average Population
+        - Japan Population
+        - Population Density Difference
+        - The Blunder
 - Tutorials
     1. 30 Days of Code
         - Day 0: Hello, World.
