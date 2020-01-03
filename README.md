@@ -98,6 +98,10 @@
     2. Advanced Select
         - Type of Triangle
         - The PADS
+    3. Aggregation
+        - Revising Aggregations - The Count Function
+        - Revising Aggregations - The Sum Function
+        - Revising Aggregations - Averages
 - Tutorials
     1. 30 Days of Code
         - Day 0: Hello, World.
