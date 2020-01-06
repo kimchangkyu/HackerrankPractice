@@ -110,6 +110,7 @@
         - Weather Observation Station 2
         - Weather Observation Station 13
         - Weather Observation Station 14
+        - Weather Observation Station 15
 - Tutorials
     1. 30 Days of Code
         - Day 0: Hello, World.
@@ -126,3 +127,5 @@
         - Day 12: Inheritance
         - Day 13: Abstract Classes
         - Day 14: Scope
+        - Day 15: Linked List
+        - Day 16: Exceptions - String to Integer
