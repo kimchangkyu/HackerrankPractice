@@ -106,6 +106,10 @@
         - Japan Population
         - Population Density Difference
         - The Blunder
+        - Top Earners
+        - Weather Observation Station 2
+        - Weather Observation Station 13
+        - Weather Observation Station 14
 - Tutorials
     1. 30 Days of Code
         - Day 0: Hello, World.
