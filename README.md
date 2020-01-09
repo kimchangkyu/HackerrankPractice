@@ -114,6 +114,8 @@
         - Weather Observation Station 16
         - Weather Observation Station 17
         - Weather Observation Station 18
+        - Weather Observation Station 19
+        - Weather Observation Station 20
 - Tutorials
     1. 30 Days of Code
         - Day 0: Hello, World.
