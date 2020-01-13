@@ -119,6 +119,7 @@
     4. Basic Join
         - Asian Population
         - African Cities
+        - Average Population of Each Continent
 - Tutorials
     1. 30 Days of Code
         - Day 0: Hello, World.
