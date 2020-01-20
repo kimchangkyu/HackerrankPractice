@@ -73,6 +73,9 @@
         - Collections.deque()
     7. Date and Time
         - Calendar Module
+    8. Errors and Exceptions  
+        - Exceptions
+        - Incorrect Regex
 - SQL
     1. Basic Select
         - Revising the Select Query I
