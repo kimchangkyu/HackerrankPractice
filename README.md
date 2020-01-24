@@ -76,6 +76,8 @@
     8. Errors and Exceptions  
         - Exceptions
         - Incorrect Regex
+    9. Numpy
+        - Arrays
 - SQL
     1. Basic Select
         - Revising the Select Query I
