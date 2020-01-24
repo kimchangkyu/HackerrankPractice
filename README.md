@@ -79,6 +79,9 @@
     9. Numpy
         - Arrays
         - Shape and Reshape
+        - Transpose and Flatten
+        - Concatenate
+        - Zeros and Ones
 - SQL
     1. Basic Select
         - Revising the Select Query I
