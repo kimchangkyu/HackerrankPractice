@@ -78,6 +78,7 @@
         - Incorrect Regex
     9. Numpy
         - Arrays
+        - Shape and Reshape
 - SQL
     1. Basic Select
         - Revising the Select Query I
