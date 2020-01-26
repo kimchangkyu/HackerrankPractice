@@ -82,6 +82,9 @@
         - Transpose and Flatten
         - Concatenate
         - Zeros and Ones
+        - Eye and Identity
+        - Array Mathematics
+        - Floor, Ceil and Rint
 - SQL
     1. Basic Select
         - Revising the Select Query I
