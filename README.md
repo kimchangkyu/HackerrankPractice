@@ -85,6 +85,8 @@
         - Eye and Identity
         - Array Mathematics
         - Floor, Ceil and Rint
+        - Sum and Prod
+        - Min and Max
 - SQL
     1. Basic Select
         - Revising the Select Query I
