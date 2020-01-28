@@ -87,6 +87,7 @@
         - Floor, Ceil and Rint
         - Sum and Prod
         - Min and Max
+        - Mean, Var, and Std
 - SQL
     1. Basic Select
         - Revising the Select Query I
