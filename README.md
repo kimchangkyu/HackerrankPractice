@@ -45,6 +45,7 @@
         - Text Alignment
         - String Validators
         - Capitalize!
+        - Alphabet Rangoli
     4. Sets
         - Introduction to Sets
         - Set add()
